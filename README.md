@@ -38,7 +38,8 @@ Status: Running
 
 Agent Status: Ready
 
-📸 Screenshot: Azure portal – Virtual Machine Overview Page
+📸 Screenshot: Azure portal – Virtual Machine Overview Page  
+![VM Overview Screenshot](vm-overview.png)
 
 b. Resource Group
 Name: StudentKursadSelicioglu_RG
